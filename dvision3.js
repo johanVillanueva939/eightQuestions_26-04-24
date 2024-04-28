@@ -12,5 +12,5 @@ function division(number1, number2,resultDivision,resultModule) {
 	
 	}
 }
-console.log(division(number1,number2,Math.round(resultDivision),resultModule));
+console.log(division(number1,number2,Math.round(resultDivision),resultModule))
 
